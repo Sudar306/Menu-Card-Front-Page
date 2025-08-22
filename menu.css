@@ -1,0 +1,220 @@
+.menu{
+    padding: 50px;
+    margin: 10px;
+    background-color: black;
+   
+    height: 730px;
+    width: 500px;
+}
+#food1{
+    padding: 10px;
+    position:relative;
+    top: -758px;
+    left: 175px;
+    margin: 10px;
+}
+.food2{
+    padding: 10px;
+    position:relative;
+    top: -1619px;
+    left: -175px;
+    margin: 10px;
+}
+H1{
+    padding: 10px;
+    position: relative;
+    top: -70px;
+    left: 90px;
+    font-size: 60px;
+}
+.main{
+    padding: 5px;
+    background-color: rgb(223, 223, 8);
+    position: relative;
+    left:70px;
+    top: -80px;
+    height: 15px;
+    width: 140px;
+}
+.first1{
+    padding: 10px;
+    position: relative;
+    top: -75px;
+    left: 217px;
+}
+.first2{
+    padding: 10px;
+    position: relative;
+    top: -47px;
+    left: 95px;
+}
+.first3{
+    padding: 10px;
+    position: relative;
+     top: -18px;
+    left: -28px;
+}
+.first4{
+    padding: 10px;
+    position: relative;
+     top: 12px;
+    left: -155px;
+}
+.first5{
+    padding: 10px;
+    position: relative;
+     top: 25px;
+    left: 135px;
+}
+.first6{
+    padding: 10px;
+    position: relative;
+     top: 55px;
+    left: 16px;
+}
+.first7{
+    padding: 10px;
+    position: relative;
+     top: 87px;
+    left: -57px;
+}
+.app{
+    padding: 5px;
+    background-color: rgb(223, 223, 8);
+     position: relative;
+     top: -121px;
+    left: -187px;
+    height: 15px;
+    width: 140px;
+}
+.two1{
+    padding: 10px;
+    position: relative;
+     top: -117px;
+    left: -31px;
+}
+.two2{
+    padding: 10px;
+    position: relative;
+     top: -85px;
+    left: -155px;
+}
+.two3{
+    padding: 10px;
+    position: relative;
+    top: -57px;
+    left: -285px;
+}
+.two4{
+    padding: 10px;
+    position: relative;
+    top: -28px;
+    left: -436px;
+}
+.two5{
+    padding: 10px;
+    position: relative;
+    top: -16px;
+    left: -112px;
+}
+.two6{
+    padding: 10px;
+    position: relative;
+    top: 15px;
+    left: -243px;
+}
+.two7{
+    padding: 10px;
+    position: relative;
+    top: 45px;
+    left: -366px;
+}
+.beve{
+    padding: 5px;
+    background-color: rgb(223, 223, 8);
+    position: relative;
+    top: 50px;
+    left: -189px;
+    height: 15px;
+    width: 140px;
+}
+.two11{
+    padding: 10px;
+    position: relative;
+    top: 75px;
+    left: -33px;
+}
+.two12{
+    padding: 10px;
+    position: relative;
+    top: 46px;
+    left: -169px;
+}
+.two13{
+    padding: 10px;
+    position: relative;
+    top: 110px;
+    left: -312px;
+
+}
+.two14{
+    padding: 10px;
+    position: relative;
+    top: 140px;
+    left: -445px;
+}
+.two15{
+    padding: 10px;
+    position: relative;
+    top: 150px;
+    left: -222px;
+}
+.two16{
+    padding: 10px;
+    position: relative;
+    top: 180px;
+    left: -355px;
+}
+.first{
+    padding: 10px;
+    position: relative;
+    top: -342px;
+    left: 230px;
+}
+.second{
+    padding: 10px;
+    position: relative;
+     top: -540px;
+    left: -70px;
+}
+.three{
+    padding: 10px;
+    position: relative;
+     top: -534px;
+    left: -70px;
+}
+.box{
+    padding: 10px;
+    border: 1px solid #808080;
+    position: relative;
+    top: -1415px;
+    left: 125px;
+    height: 55px;
+    width: 220px;
+}
+.phone{
+    padding: 10px;
+    position: relative;
+    left: -29px;
+    top: -8px;
+}
+.mail{
+    padding: 10px;
+    position: relative;
+    top: -7px;
+}
+.location{
+    padding: 10px;
+    position: relative;
+
+}
